@@ -54,23 +54,23 @@ programming.
 ### Personal Interests
 
 <a href="https://github.com/eric2788/ELDependenci">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=ELDependenci" height="140" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=ELDependenci&theme=tokyonight" height="140" />
 </a>
 <a href="https://github.com/eric2788/bilibili-jimaku-filter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=bilibili-jimaku-filter" height="140" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=bilibili-jimaku-filter&theme=tokyonight" height="140" />
 </a>
-<br>
+<p>
 <a href="https://github.com/eric2788/HyperNiteMC-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=HyperNiteMC-Bot" height="130" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=HyperNiteMC-Bot&theme=tokyonight" height="130" />
 </a>
 <a href="https://github.com/eric2788/KotLib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=KotLib" height="130" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=KotLib&theme=tokyonight" height="130" />
 </a>
 
 ### School Projects
 
 <a href="https://github.com/eric2788/sst-miniproject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=sst-miniproject" height="130"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=sst-miniproject&theme=tokyonight" height="130"/>
 </a>
 <a href="https://github.com/eric2788/MemoApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=MemoApp" height="130"/>
