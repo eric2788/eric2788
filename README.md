@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I am an undergraduate student which are willing to learn experiences and skills with any kind of hard work
+I am an undergraduate student who are willing to learn experiences and skills with any kind of hard work
 through finding internship job relevant to software development. I have high passion of object-oriented
 programming that having 2 years’ experience in java programming and intermediate level in web
 programming.
