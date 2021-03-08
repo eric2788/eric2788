@@ -61,7 +61,7 @@ programming.
 </a>
 <br/>
 <a href="https://github.com/eric2788/HyperNiteMC-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=HyperNiteMC-Bot&theme=tokyonight" width="120" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=HyperNiteMC-Bot&theme=tokyonight" height="120" />
 </a>
 <a href="https://github.com/eric2788/KotLib">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=KotLib&theme=tokyonight" height="120"/>
