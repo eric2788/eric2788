@@ -66,6 +66,9 @@ programming.
 <a href="https://github.com/eric2788/KotLib">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=KotLib&theme=tokyonight" height="120"/>
 </a>
+<a href="https://github.com/eric2788/bilibili-danmaku-inserter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=bilibili-danmaku-inserter&theme=tokyonight" height="120" />
+</a>
 
 ### School Projects
 
