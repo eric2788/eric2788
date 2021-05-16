@@ -78,6 +78,12 @@ programming.
 <a href="https://github.com/eric2788/MemoApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=MemoApp&theme=tokyonight" height="130"/>
 </a>
+<a href="https://github.com/eric2788/weather_info">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=weather_info&theme=tokyonight" height="130"/>
+</a>
+<a href="https://github.com/eric2788/comp380f-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=comp380f-project&theme=tokyonight" height="130"/>
+</a>
 
 
 
