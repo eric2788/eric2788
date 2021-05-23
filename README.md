@@ -21,6 +21,15 @@ programming.
 - JavaScript
 - Typescript
 - VueJS
+- ReactJS
+
+</details>
+
+<details>
+  <summary>Mobile programming</summary>
+  
+- Flutter
+- Android
 
 </details>
 
