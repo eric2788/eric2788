@@ -62,8 +62,8 @@ programming.
 
 ### Personal Interests
 
-<a href="https://github.com/eric2788/ELDependenci">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=ELDependenci&theme=tokyonight" height="140" />
+<a href="https://github.com/ELDependenci/ELDependenci">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ELDependenci&repo=ELDependenci&theme=tokyonight" height="140" />
 </a>
 <a href="https://github.com/eric2788/bilibili-jimaku-filter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=bilibili-jimaku-filter&theme=tokyonight" height="140" />
