@@ -21,7 +21,7 @@ programming.
 - JavaScript
 - Typescript
 - VueJS
-- ReactJS
+- SpringBoot
 
 </details>
 
@@ -55,6 +55,7 @@ programming.
   
   - Mongodb
   - MySQL
+  - Redis
   
 </details>
   
