@@ -2,10 +2,7 @@
 
 ## Introduction
 
-I am an undergraduate student who are willing to learn experiences and skills with any kind of hard work
-through finding internship job relevant to software development. I have high passion of object-oriented
-programming that having 2 years’ experience in java programming and intermediate level in web
-programming.
+I love creating things since I was 14 when I started developing Minecraft server. I started learning programming when I was 19 and tried to start some personal projects.Now I still have high passion of programming that having 3 years’ experience in object-oriented programming and intermediate level in web programming.
 
 ## Skills
 
@@ -39,6 +36,7 @@ programming.
 - Java
 - Kotlin
 - C#
+- Python
   
  </details>
  
@@ -51,7 +49,7 @@ programming.
 </details>
   
 <details>
-  <summary>Basic knowledge of DBMS</summary>
+  <summary>Databases</summary>
   
   - Mongodb
   - MySQL
