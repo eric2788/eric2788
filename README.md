@@ -75,11 +75,11 @@ I love creating things since I was 14 when I started developing Minecraft server
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=bilibili-jimaku-filter&theme=tokyonight" height="140" />
 </a>
 <br/>
-<a href="https://github.com/eric2788/HyperNiteMC-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=HyperNiteMC-Bot&theme=tokyonight" height="120" />
+<a href="https://github.com/eric2788/youtube_live_redis_server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=youtube_live_redis_server&theme=tokyonight" height="120" />
 </a>
-<a href="https://github.com/eric2788/KotLib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=KotLib&theme=tokyonight" height="120"/>
+<a href="https://github.com/eric2788/blive-redis-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=blive-redis-server&theme=tokyonight" height="120"/>
 </a>
 <a href="https://github.com/eric2788/bilibili-danmaku-inserter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric2788&repo=bilibili-danmaku-inserter&theme=tokyonight" height="120" />
