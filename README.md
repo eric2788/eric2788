@@ -1,6 +1,7 @@
 # Hi 👋, Eric Lam's here
 
-<input type="hidden" src="https://komarev.com/ghpvc/?username=eric2788&label=Profile%20views&color=0e75b6&style=flat" alt="eric2788" />
+<!-- hidden -->
+<img height="1" width="1" src="https://komarev.com/ghpvc/?username=eric2788&label=Profile%20views&color=0e75b6&style=flat" alt="eric2788" />
 
 - 👶 My First Programming Language 👉 **Java** (started with Minecraft)
 - 👯 My most masterpieced Minecraft Plugin 👉 [ELDependenci](https://github.com/eldependenci)
