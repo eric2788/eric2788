@@ -5,8 +5,8 @@
 
 - 👶 My First Programming Language 👉 **Java** (started with Minecraft)
 - 👯 My most masterpieced Minecraft Plugin 👉 [ELDependenci](https://github.com/eldependenci)
-- 🌱 I’m currently learning 👉 **Unreal Engine , PHP , C++, solidity**
-- 🎮 I love playing 👉 CSGO, Valorant
+- 🌱 I’m currently learning 👉 **Rust**
+- 🎮 I love playing 👉 CSGO, Valorant, WatchDogs
 - 📫 Contact Me 👉 [Telegram](https://t.me/eric1008818) , [Discord](https://discord.gg/Mt6jP4r)
 - 🖥 My Website 👉 [https://ericlamm.xyz](https://ericlamm.xyz)
 
