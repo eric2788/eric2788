@@ -11,7 +11,7 @@
 - 🖥 My Website 👉 [https://ericlamm.xyz](https://ericlamm.xyz)
 
 <br>
-<p align="left"><img src="https://github-stats-alpha.vercel.app/api?username=eric2788&show_icons=true"></img></p>
+<p align="left"><img src="https://github-stats-alpha.vercel.app/api?username=eric2788&show_icons=true&count_private=true"></img></p>
 
 # 🗡 My Skills
 
