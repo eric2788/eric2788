@@ -15,7 +15,7 @@
 
 # 🗡 My Skills
 
-<p><img src="https://github-stats-alpha.vercel.app/api/top-langs?username=eric2788&show_icons=true&locale=en&layout=compact&hide=html"></img></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eric2788&show_icons=true&locale=en&layout=compact&hide=html"></img></p>
 
 ## 📌 Languages
 
