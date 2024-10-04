@@ -50,9 +50,9 @@
 - Android
 - BootStrap
 - ASP .NET
-- ExpressJs
+- ExpressJS
 - Flask
-- ReactJs
+- ReactJS
 - SpringBoot
 - Flutter
 - VueJS
