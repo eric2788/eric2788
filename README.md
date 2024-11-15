@@ -19,11 +19,11 @@
 
 ## ⚓ Frameworks and Technologies
 
-![Techs](https://skillicons.dev/icons?i=regex,jquery,androidstudio,flutter,react,vuejs,vuetify,wasm,dotnet,spring,expressjs&perline=10)
+![Techs](https://skillicons.dev/icons?i=regex,jquery,tailwindcss,androidstudio,flutter,react,vuejs,vuetify,materialui,playwright,wasm,dotnet,spring,expressjs&perline=10)
   
 ## ⛏ Tools
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,gitlab,githubactions,githubcopilot,nginx,firebase,linux,mongodb,mysql,postgres,redis,webpack,pnpm&perline=10)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,svn,git,github,gitlab,githubactions,jenkins,githubcopilot,nginx,firebase,linux,mongodb,mysql,postgres,redis,webpack,pnpm,maven&perline=10)
   
 ## 🖥️ Using IDEs
 
