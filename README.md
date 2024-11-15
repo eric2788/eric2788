@@ -19,7 +19,7 @@
 
 ## ⚓ Frameworks and Technologies
 
-![Techs](https://go-skill-icons.vercel.app/api/icons?i=regex,jquery,tailwindcss,androidstudio,flutter,react,vuejs,vuetify,materialui,playwright,wasm,dotnet,spring,expressjs&perline=10&titles=true)
+![Techs](https://go-skill-icons.vercel.app/api/icons?i=regex,jquery,tailwindcss,android,flutter,react,vuejs,vuetify,materialui,playwright,wasm,dotnet,spring,expressjs&perline=10&titles=true)
   
 ## ⛏ Tools
 
@@ -27,4 +27,4 @@
   
 ## 🖥️ Using IDEs
 
-![IDEs](https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,visualstudio&perline=10&titles=true)
+![IDEs](https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,visualstudio,androidstudio&perline=10&titles=true)
