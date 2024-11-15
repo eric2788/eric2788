@@ -15,16 +15,16 @@
 
 ## 📌 Programming Languages
 
-![Langauges](https://skillicons.dev/icons?i=java,cs,python,js,ts,go,dart,html,css,kotlin&perline=10)
+![Langauges](https://go-skill-icons.vercel.app/api/icons?i=java,cs,python,js,ts,go,dart,html,css,kotlin&perline=10&titles=true)
 
 ## ⚓ Frameworks and Technologies
 
-![Techs](https://skillicons.dev/icons?i=regex,jquery,tailwindcss,androidstudio,flutter,react,vuejs,vuetify,materialui,playwright,wasm,dotnet,spring,expressjs&perline=10)
+![Techs](https://go-skill-icons.vercel.app/api/icons?i=regex,jquery,tailwindcss,androidstudio,flutter,react,vuejs,vuetify,materialui,playwright,wasm,dotnet,spring,expressjs&perline=10&titles=true)
   
 ## ⛏ Tools
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,svn,git,github,gitlab,githubactions,jenkins,githubcopilot,nginx,firebase,linux,bash,mongodb,mysql,postgres,redis,webpack,npm,pnpm,maven&perline=10)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,svn,git,github,gitlab,githubactions,jenkins,githubcopilot,nginx,firebase,linux,bash,mongodb,mysql,postgres,redis,webpack,npm,pnpm,maven&perline=10&titles=true)
   
 ## 🖥️ Using IDEs
 
-![IDEs](https://skillicons.dev/icons?i=idea,vscode,visualstudio&perline=10)
+![IDEs](https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,visualstudio&perline=10&titles=true)
