@@ -5,8 +5,8 @@
 
 - 👶 My First Programming Language 👉 **Java** (started with Minecraft)
 - 👯 My most masterpieced Minecraft Plugin 👉 [ELDependenci](https://github.com/eldependenci)
-- 🌱 I’m currently learning 👉 **Rust**
-- 🎮 I love playing 👉 CSGO, Valorant, WatchDogs
+- 🌱 I’m currently learning 👉 **LLM Integration**, **k8s**
+- 🎮 I love playing 👉 FPS, Survival Crafting 
 - 📫 Contact Me 👉 [Telegram](https://t.me/eric1008818) , [Discord](https://discord.gg/Mt6jP4r)
 - 🖥 My Website 👉 [https://ericlamm.xyz](https://ericlamm.xyz)
 
@@ -23,7 +23,7 @@
   
 ## ⛏ Tools
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,svn,git,github,gitlab,githubactions,jenkins,githubcopilot,nginx,firebase,linux,bash,mongodb,mysql,postgres,redis,webpack,npm,pnpm,maven&perline=10&titles=true)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,helm,git,github,gitlab,githubactions,jenkins,githubcopilot,nginx,firebase,linux,bash,mongodb,mysql,postgres,redis,webpack,npm,pnpm,maven,gradle&perline=10&titles=true)
   
 ## 🖥️ Using IDEs
 
