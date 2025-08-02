@@ -15,7 +15,7 @@
 
 ## 📌 Programming Languages
 
-![Langauges](https://go-skill-icons.vercel.app/api/icons?i=java,cs,python,js,ts,go,dart,html,css,kotlin,groovy&perline=10&titles=true)
+![Langauges](https://go-skill-icons.vercel.app/api/icons?i=java,cs,python,js,ts,go,dart,html,css,kotlin&perline=10&titles=true)
 
 ## ⚓ Frameworks and Technologies
 
