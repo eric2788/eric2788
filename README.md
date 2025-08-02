@@ -23,7 +23,7 @@
   
 ## ⛏ Tools
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,helm,git,github,gitlab,githubactions,jenkins,githubcopilot,nginx,firebase,linux,bash,mongodb,mysql,postgres,redis,webpack,npm,pnpm,maven,gradle&perline=10&titles=true)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,k8s,helm,git,github,gitlab,githubactions,githubcopilot,nginx,firebase,linux,bash,mongodb,mysql,postgres,redis,webpack,npm,pnpm,maven,gradle&perline=10&titles=true)
   
 ## 🖥️ Using IDEs
 
